@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
-[![Hilarys's GitHub stats](https://github-readme-stats.vercel.app/api?username=hilariie)]
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/1n92hYPiFQ0efcCtrF/giphy.gif"/>
+</div>
