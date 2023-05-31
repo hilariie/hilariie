@@ -27,9 +27,9 @@ I am a Data scientist <img src="https://media.giphy.com/media/ROvAAasTqL4Hy7kjXt
 
 
 - 🔭 I’m currently undergoing a masters' degree program in Data science.
-- 🌱 I’m currently learning how to utilize multi-output neural networks for multi-class classification problems.
+- 🌱 I’m currently researching on how to use deep learning to analyse C-elegan worms mating behaviour.
 - 👯 I’m looking to collaborate on data science projects particularly in the health domain.
-- 💬 Ask me about anythin relating to data.
+- 💬 Ask me about anything and everything relating to data.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me:  -->
 <!-- - 😄 Pronouns: ... -->
