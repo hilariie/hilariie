@@ -54,8 +54,8 @@ I am a Data scientist <img src="https://media.giphy.com/media/ROvAAasTqL4Hy7kjXt
 </div>
 
 ---
-<!-- 
+
 ### :fire: My Stats :
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilariie&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilariie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilariie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
