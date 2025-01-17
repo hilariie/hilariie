@@ -22,13 +22,13 @@
 
 ### :man_technologist: About Me :
 
-I am a Data scientist <img src="https://media.giphy.com/media/ROvAAasTqL4Hy7kjXt/giphy.gif" width="30"> currently residing in the UK.
+I am a Data scientist <img src="https://media.giphy.com/media/ROvAAasTqL4Hy7kjXt/giphy.gif" width="30"> with a keen focus on Computer Vision.
 
 
 
-- 🔭 I just recently concluded a masters' degree program in Data science.
+<!-- - 🔭 I just recently concluded a masters' degree program in Data science. -->
 <!-- - 🌱 I’m researching how to use deep learning to analyse C-elegan worms mating behaviour. -->
-- 👯 I’m looking to collaborate on data science projects, particularly in health.
+- 👯 I’m looking to collaborate on data science projects, particularly in computer vision.
 - 💬 Ask me about anything and everything relating to data.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me:  -->
@@ -58,4 +58,4 @@ I am a Data scientist <img src="https://media.giphy.com/media/ROvAAasTqL4Hy7kjXt
 ### :fire: My Stats :
 
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=hilariie&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilariie&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hilariie&layout=compact&theme=vision-friendly-dark&size_weight=0.2&count_weight=0.8)](https://github.com/anuraghazra/github-readme-stats)
