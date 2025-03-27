@@ -28,7 +28,7 @@ I am a Data scientist <img src="https://media.giphy.com/media/ROvAAasTqL4Hy7kjXt
 
 <!-- - 🔭 I just recently concluded a masters' degree program in Data science. -->
 <!-- - 🌱 I’m researching how to use deep learning to analyse C-elegan worms mating behaviour. -->
-- 👯 I’m looking to collaborate on data science projects, particularly in computer vision.
+- 👯 I am looking to collaborate on data science projects, particularly in computer vision.
 - 💬 Ask me about anything and everything relating to data.
 <!-- - 🤔 I’m looking for help with ... -->
 <!-- - 📫 How to reach me:  -->
